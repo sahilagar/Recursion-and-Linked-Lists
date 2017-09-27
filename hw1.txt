@@ -1,0 +1,24 @@
+Problem 1
+a) 
+1. Acceptable, looking up relevant information is fine.
+2. Not acceptable cant look up solutions.
+3. Not acceptable to copy code from classmates.
+4. Acceptable to ask course staff for help.
+5. Not acceptable large chance of code being similar
+6. Not acceptable only discuss high level ideas.
+7. Not acceptable no copying
+8. Acceptable when not graded
+b)
+Recommended code writing tools are emacs, eclipse, sublime, ms vistual
+studio
+c)
+2 and 3
+d)
+2 and 4
+
+Problem 2)
+a) Git bash and Terminal (Max or Linux)
+b) 1. git add hw1/hw1q2b.cpp
+   2. git log -3
+c) Git commit will stage the files locally but wont
+push it to the server.
